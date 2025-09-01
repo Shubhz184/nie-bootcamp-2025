@@ -8,6 +8,7 @@ A financial tracking application developed during NIE Bootcamp 2025.
 - spandana  
 - ananya ramesh
 - ganesha
+-  bimbika
   
 
  More details about the project will be added soon.
